@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Burak.
- ⚡ I’m currently learning data structures and python. I’m currently working on Linux. I'm going to be a System Administrator, also software developer.   
+<hr>
+<h3> ⚡ I’m currently learning data structures and python. </h3> 
+<h3> 🔭 I’m currently working on Linux. </h3> 
+<h3> 👯 I'm going to be a System Administrator, also software developer. </h3>  
 
 
 <!--
