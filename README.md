@@ -9,7 +9,7 @@ Hi, I'm Burak. I've been working with Bash scripting and task automation for the
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakherdogan&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact&theme=radical)
+![Top Languages](https://github-stats-d1pm-git-main-burakherdogans-projects.vercel.app/api/top-langs/?username=burakherdogan&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact&theme=radical)
 
 [![GitHub](https://img.shields.io/badge/GitHub-292D3E?style=for-the-badge&logo=github)](https://github.com/burakherdogan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-292D3E?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakhasanerdogan/)
